@@ -7,6 +7,7 @@ This project is a web application designed to test and simulate the Benfort Law.
 - add row
 - see data
 - see graphic
+- adding extra data
 
 ## Screenshots
 ![Benfort Law Simulation](picture.png)
